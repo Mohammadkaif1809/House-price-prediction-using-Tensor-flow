@@ -39,6 +39,7 @@ Fine-tune the hyperparameters of the model and repeat the training process to im
 Prediction:
 
 Once the model is trained and evaluated satisfactorily, it can be used to make predictions on new, unseen data.
+
 Deployment:
 
 If the model meets the desired performance, it can be deployed to make predictions on real-world data, such as predicting house prices for a given set of features.
